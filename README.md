@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GrimMori/GrimMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### hiii world
+i am mori, a queer artist and full-stack web developer from barcelona. 
+i am into open source and i love blender. sometimes i try to make games. 
+
+—
+### My Sats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GrimMori&theme=rose-pine&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
