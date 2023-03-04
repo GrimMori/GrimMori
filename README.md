@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### hiii world
-i am mori, a queer artist and full-stack web developer from barcelona. 
+i am a queer artist and full-stack web developer from barcelona. <br>
 i am into open source and i love blender. sometimes i try to make games. 
 
-—
-### My Sats :
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GrimMori&theme=rose-pine&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrimMori&layout=compact&hide_progress=false&count_private=true&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
