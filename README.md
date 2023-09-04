@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### hiii world
 i am a queer artist and full-stack web developer from barcelona. <br>
-i am into open source and i love blender. sometimes i try to make games. 
+here you can find some of the things i have worked on.
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GrimMori&theme=rose-pine&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
